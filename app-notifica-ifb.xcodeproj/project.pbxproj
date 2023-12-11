@@ -28,6 +28,22 @@
 		C0EC0C082B273B180083C2A1 /* ImageDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EC0C072B273B180083C2A1 /* ImageDefault.swift */; };
 		C0EC0C0A2B273B2B0083C2A1 /* ButtonDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EC0C092B273B2B0083C2A1 /* ButtonDefault.swift */; };
 		C0EC0C0C2B273B610083C2A1 /* TextFieldDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EC0C0B2B273B610083C2A1 /* TextFieldDefault.swift */; };
+		F9169FCB2B2B858400BE5245 /* HomeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FCA2B2B858400BE5245 /* HomeCoordinator.swift */; };
+		F9169FCD2B2B85DE00BE5245 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FCC2B2B85DE00BE5245 /* HomeView.swift */; };
+		F9169FCF2B2B85F000BE5245 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FCE2B2B85F000BE5245 /* HomeViewController.swift */; };
+		F9169FD12B2B875400BE5245 /* ViewControllerDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FD02B2B875400BE5245 /* ViewControllerDefault.swift */; };
+		F9169FD32B2BC8B700BE5245 /* ViewDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FD22B2BC8B700BE5245 /* ViewDefault.swift */; };
+		F9169FD82B2BD24F00BE5245 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FD72B2BD24F00BE5245 /* TabBarController.swift */; };
+		F9169FDA2B2BD26B00BE5245 /* NewOccurrenceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FD92B2BD26B00BE5245 /* NewOccurrenceView.swift */; };
+		F9169FDC2B2BD28400BE5245 /* NewOccurrenceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FDB2B2BD28400BE5245 /* NewOccurrenceController.swift */; };
+		F9169FDE2B2BD2B800BE5245 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FDD2B2BD2B800BE5245 /* AboutView.swift */; };
+		F9169FE02B2BD2C700BE5245 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FDF2B2BD2C700BE5245 /* AboutViewController.swift */; };
+		F9169FE22B2BD2DE00BE5245 /* AboutCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FE12B2BD2DE00BE5245 /* AboutCoordinator.swift */; };
+		F9169FE42B2BD2F000BE5245 /* TabBarCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FE32B2BD2F000BE5245 /* TabBarCoordinator.swift */; };
+		F9169FE62B2BD30700BE5245 /* NewOccurrenceCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FE52B2BD30700BE5245 /* NewOccurrenceCoordinator.swift */; };
+		F9169FE82B2BDFAE00BE5245 /* ChooseImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FE72B2BDFAD00BE5245 /* ChooseImage.swift */; };
+		F9169FEA2B2BE91400BE5245 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FE92B2BE91400BE5245 /* HomeViewModel.swift */; };
+		F9169FEC2B2BE96600BE5245 /* NewOccurrenceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9169FEB2B2BE96600BE5245 /* NewOccurrenceViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +89,22 @@
 		C0EC0C072B273B180083C2A1 /* ImageDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDefault.swift; sourceTree = "<group>"; };
 		C0EC0C092B273B2B0083C2A1 /* ButtonDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonDefault.swift; sourceTree = "<group>"; };
 		C0EC0C0B2B273B610083C2A1 /* TextFieldDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDefault.swift; sourceTree = "<group>"; };
+		F9169FCA2B2B858400BE5245 /* HomeCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCoordinator.swift; sourceTree = "<group>"; };
+		F9169FCC2B2B85DE00BE5245 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		F9169FCE2B2B85F000BE5245 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		F9169FD02B2B875400BE5245 /* ViewControllerDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerDefault.swift; sourceTree = "<group>"; };
+		F9169FD22B2BC8B700BE5245 /* ViewDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDefault.swift; sourceTree = "<group>"; };
+		F9169FD72B2BD24F00BE5245 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		F9169FD92B2BD26B00BE5245 /* NewOccurrenceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewOccurrenceView.swift; sourceTree = "<group>"; };
+		F9169FDB2B2BD28400BE5245 /* NewOccurrenceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewOccurrenceController.swift; sourceTree = "<group>"; };
+		F9169FDD2B2BD2B800BE5245 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
+		F9169FDF2B2BD2C700BE5245 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		F9169FE12B2BD2DE00BE5245 /* AboutCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutCoordinator.swift; sourceTree = "<group>"; };
+		F9169FE32B2BD2F000BE5245 /* TabBarCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarCoordinator.swift; sourceTree = "<group>"; };
+		F9169FE52B2BD30700BE5245 /* NewOccurrenceCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewOccurrenceCoordinator.swift; sourceTree = "<group>"; };
+		F9169FE72B2BDFAD00BE5245 /* ChooseImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseImage.swift; sourceTree = "<group>"; };
+		F9169FE92B2BE91400BE5245 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		F9169FEB2B2BE96600BE5245 /* NewOccurrenceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewOccurrenceViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +210,8 @@
 				C0EC0C072B273B180083C2A1 /* ImageDefault.swift */,
 				C0EC0C092B273B2B0083C2A1 /* ButtonDefault.swift */,
 				C0EC0C0B2B273B610083C2A1 /* TextFieldDefault.swift */,
+				F9169FD02B2B875400BE5245 /* ViewControllerDefault.swift */,
+				F9169FD22B2BC8B700BE5245 /* ViewDefault.swift */,
 			);
 			path = Infrastructure;
 			sourceTree = "<group>";
@@ -185,6 +219,10 @@
 		C0EC0BF02B2737A50083C2A1 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				F9169FD62B2BD23700BE5245 /* TabBar */,
+				F9169FD52B2BD1F900BE5245 /* NewOccurrence */,
+				F9169FD42B2BD1E500BE5245 /* About */,
+				F9169FC92B2B84F100BE5245 /* HHome */,
 				C0EC0BFA2B27391E0083C2A1 /* Register */,
 				C0EC0BF92B2739130083C2A1 /* Login */,
 			);
@@ -205,6 +243,10 @@
 				C0EC0BF32B2738070083C2A1 /* Coordinator.swift */,
 				C0EC0BF52B2738990083C2A1 /* LoginCoordinator.swift */,
 				C0EC0BF72B2738E20083C2A1 /* RegisterCoordinator.swift */,
+				F9169FCA2B2B858400BE5245 /* HomeCoordinator.swift */,
+				F9169FE12B2BD2DE00BE5245 /* AboutCoordinator.swift */,
+				F9169FE32B2BD2F000BE5245 /* TabBarCoordinator.swift */,
+				F9169FE52B2BD30700BE5245 /* NewOccurrenceCoordinator.swift */,
 			);
 			path = Coordinator;
 			sourceTree = "<group>";
@@ -225,6 +267,44 @@
 				C0EC0C012B273A230083C2A1 /* RegisterView.swift */,
 			);
 			path = Register;
+			sourceTree = "<group>";
+		};
+		F9169FC92B2B84F100BE5245 /* HHome */ = {
+			isa = PBXGroup;
+			children = (
+				F9169FCC2B2B85DE00BE5245 /* HomeView.swift */,
+				F9169FCE2B2B85F000BE5245 /* HomeViewController.swift */,
+				F9169FE92B2BE91400BE5245 /* HomeViewModel.swift */,
+			);
+			path = HHome;
+			sourceTree = "<group>";
+		};
+		F9169FD42B2BD1E500BE5245 /* About */ = {
+			isa = PBXGroup;
+			children = (
+				F9169FDD2B2BD2B800BE5245 /* AboutView.swift */,
+				F9169FDF2B2BD2C700BE5245 /* AboutViewController.swift */,
+			);
+			path = About;
+			sourceTree = "<group>";
+		};
+		F9169FD52B2BD1F900BE5245 /* NewOccurrence */ = {
+			isa = PBXGroup;
+			children = (
+				F9169FD92B2BD26B00BE5245 /* NewOccurrenceView.swift */,
+				F9169FDB2B2BD28400BE5245 /* NewOccurrenceController.swift */,
+				F9169FE72B2BDFAD00BE5245 /* ChooseImage.swift */,
+				F9169FEB2B2BE96600BE5245 /* NewOccurrenceViewModel.swift */,
+			);
+			path = NewOccurrence;
+			sourceTree = "<group>";
+		};
+		F9169FD62B2BD23700BE5245 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				F9169FD72B2BD24F00BE5245 /* TabBarController.swift */,
+			);
+			path = TabBar;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -358,11 +438,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9169FDA2B2BD26B00BE5245 /* NewOccurrenceView.swift in Sources */,
 				C0EC0C002B273A060083C2A1 /* RegisterViewController.swift in Sources */,
 				C0EC0C022B273A230083C2A1 /* RegisterView.swift in Sources */,
 				C0EC0C062B273AE90083C2A1 /* LabelDefault.swift in Sources */,
+				F9169FE62B2BD30700BE5245 /* NewOccurrenceCoordinator.swift in Sources */,
 				C0EC0BFC2B27396A0083C2A1 /* LoginViewController.swift in Sources */,
+				F9169FE42B2BD2F000BE5245 /* TabBarCoordinator.swift in Sources */,
+				F9169FDC2B2BD28400BE5245 /* NewOccurrenceController.swift in Sources */,
 				C0EC0BF42B2738070083C2A1 /* Coordinator.swift in Sources */,
+				F9169FE82B2BDFAE00BE5245 /* ChooseImage.swift in Sources */,
+				F9169FCF2B2B85F000BE5245 /* HomeViewController.swift in Sources */,
+				F9169FE22B2BD2DE00BE5245 /* AboutCoordinator.swift in Sources */,
+				F9169FCD2B2B85DE00BE5245 /* HomeView.swift in Sources */,
+				F9169FEA2B2BE91400BE5245 /* HomeViewModel.swift in Sources */,
 				C0EC0C042B273AB30083C2A1 /* UIColor+.swift in Sources */,
 				C0EC0BC12B2736E00083C2A1 /* ViewController.swift in Sources */,
 				C0EC0BF62B2738990083C2A1 /* LoginCoordinator.swift in Sources */,
@@ -370,8 +459,15 @@
 				C0EC0BBF2B2736E00083C2A1 /* SceneDelegate.swift in Sources */,
 				C0EC0C082B273B180083C2A1 /* ImageDefault.swift in Sources */,
 				C0EC0C0A2B273B2B0083C2A1 /* ButtonDefault.swift in Sources */,
+				F9169FDE2B2BD2B800BE5245 /* AboutView.swift in Sources */,
+				F9169FD12B2B875400BE5245 /* ViewControllerDefault.swift in Sources */,
+				F9169FE02B2BD2C700BE5245 /* AboutViewController.swift in Sources */,
 				C0EC0BFE2B27398C0083C2A1 /* LoginView.swift in Sources */,
+				F9169FD32B2BC8B700BE5245 /* ViewDefault.swift in Sources */,
+				F9169FCB2B2B858400BE5245 /* HomeCoordinator.swift in Sources */,
+				F9169FD82B2BD24F00BE5245 /* TabBarController.swift in Sources */,
 				C0EC0BF82B2738E20083C2A1 /* RegisterCoordinator.swift in Sources */,
+				F9169FEC2B2BE96600BE5245 /* NewOccurrenceViewModel.swift in Sources */,
 				C0EC0C0C2B273B610083C2A1 /* TextFieldDefault.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -562,6 +658,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -590,6 +687,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

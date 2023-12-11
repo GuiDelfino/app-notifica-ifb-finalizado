@@ -12,6 +12,7 @@ class LoginViewController: UIViewController {
     
 
     var onRegisterTap: (() -> Void)?
+    var onLoginTap: (() -> Void)?
     
 
     
@@ -19,6 +20,9 @@ class LoginViewController: UIViewController {
         let loginView = LoginView()
         loginView.onRegisterTap = {
             self.onRegisterTap?()
+        }
+        loginView.onLoginTap = {
+            self.onLoginTap?()
         }
         
         return loginView
